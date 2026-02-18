@@ -1,9 +1,9 @@
 # active-directory-lab
-Hi, this is the repo I'll use to show case my Active Directory lab.
-
 <div align="center">
   <img height="150" src="https://josephdepalo.com/assets/img/b4fae878.png" alt="Active Directory Logo" />
 </div>
+
+Hi, this is the repo I'll use to show case my Active Directory lab.
 
 Here I'll document the set up of the Active Directory
 - Local Server
