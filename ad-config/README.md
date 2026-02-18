@@ -32,6 +32,7 @@ This VM's ip is set to 192.168.0.240
 The Gateway is set to 192.168.0.1
 
 With this, I can assign the static IP in the network config
+
 ![static ip](scrshots/staticip.png)
 
 For the DNS server address:
@@ -40,5 +41,6 @@ For the DNS server address:
 ![dns](scrshots/dns-address.png)
 ---
 With this now configured, I can now start the Domain Controller set up
+
 
 
